@@ -1,0 +1,4 @@
+-   repo: https://github.com/yurialvesL/flake8_python
+    rev: ''  # pick a git hash / tag to point to
+    hooks:
+    -   id: flake8
